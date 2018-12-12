@@ -22,6 +22,7 @@ namespace ConsoleApp1
             risultato = Convert.ToString(num) + risultato;
             Console.WriteLine($"il numero binario è {risultato}");
             Console.ReadLine();
+            
         }
     }
 }
